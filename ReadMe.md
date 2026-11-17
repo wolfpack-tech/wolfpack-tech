@@ -1,6 +1,3 @@
-# 💫 About Me:
-In my role as a web and mobile developer, I specialize in the latest multi-platform technologies such as Flutter, React, and Laravel/Symfony. <br>I continuously expand my knowledge in cutting-edge technologies, including pursuing studies in AI alongside my freelance work and personal projects. <br>I aspire to contribute to large-scale international technological projects in the future.
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/qBKqPcwt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/pakou.koringa?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/wolffangpakou?igshid=NGVhN2U2NjQ0Yg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https:/linkedin.com/in/kwp-solopreneur) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/wolfgangpack18?t=AMjIc_yhhKUKU8ZPzq5pEw&s=09) 
